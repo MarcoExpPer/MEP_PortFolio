@@ -28,17 +28,14 @@
 }
 
 .u-section-2 .u-video-1 {
-  height: 537px;
+  height: 641px;
   margin-top: 20px;
   margin-bottom: 0;
+  width: 100%;
 }
 
 .u-section-2 .embed-responsive-1 {
   position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
 }
 
 .u-section-2 .u-accordion-1 {
@@ -69,6 +66,7 @@
 }
 
 .u-section-2 .u-text-4 {
+  background-image: none;
   margin: 0;
 }
 
@@ -100,7 +98,7 @@
   }
 
   .u-section-2 .u-video-1 {
-    height: 537px;
+    height: 641px;
   }
 
   .u-section-2 .embed-responsive-1 {
@@ -151,17 +149,14 @@
 }
 
 .u-section-3 .u-video-1 {
-  height: 537px;
+  height: 641px;
   margin-top: 20px;
   margin-bottom: 0;
+  width: 100%;
 }
 
 .u-section-3 .embed-responsive-1 {
   position: absolute;
-  width: 178%;
-  height: 178%;
-  left: -39%;
-  top: -39%;
 }
 
 .u-section-3 .u-accordion-1 {
@@ -184,7 +179,7 @@
 }
 
 .u-section-3 .u-accordion-pane-1 {
-  min-height: 460px;
+  min-height: 514px;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -223,13 +218,13 @@
   }
 
   .u-section-3 .u-video-1 {
-    height: 537px;
+    height: 641px;
   }
 
   .u-section-3 .embed-responsive-1 {
     width: 178%;
-    height: 178%;
     left: -39%;
+    height: 178%;
     top: -39%;
   }
 }
@@ -252,8 +247,8 @@
 
   .u-section-3 .embed-responsive-1 {
     width: 281%;
-    height: 100%;
     left: -90%;
+    height: 100%;
     top: 0%;
   }
 }.u-section-4 .u-sheet-1 {
@@ -274,17 +269,14 @@
 }
 
 .u-section-4 .u-video-1 {
-  height: 537px;
+  height: 641px;
   margin-top: 20px;
   margin-bottom: 0;
+  width: 100%;
 }
 
 .u-section-4 .embed-responsive-1 {
   position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
 }
 
 .u-section-4 .u-accordion-1 {
@@ -307,7 +299,7 @@
 }
 
 .u-section-4 .u-accordion-pane-1 {
-  min-height: 514px;
+  min-height: 460px;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -346,13 +338,13 @@
   }
 
   .u-section-4 .u-video-1 {
-    height: 537px;
+    height: 641px;
   }
 
   .u-section-4 .embed-responsive-1 {
     width: 178%;
-    left: -39%;
     height: 178%;
+    left: -39%;
     top: -39%;
   }
 }
@@ -375,8 +367,8 @@
 
   .u-section-4 .embed-responsive-1 {
     width: 281%;
-    left: -90%;
     height: 100%;
+    left: -90%;
     top: 0%;
   }
 }
